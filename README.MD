@@ -27,4 +27,4 @@
 
 # You are simply 4 clicks away from getting your best experiences in Roblox!
 ### Click here to select the version you wanted to download!
-### (Releases Page)[https://github.com/RyAtlasX/Raccoon-Hub/releases/]
+### [Releases Page](https://github.com/RyAtlasX/Raccoon-Hub/releases/)
