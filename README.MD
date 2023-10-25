@@ -1,5 +1,5 @@
 # Raccoon Hub: Enhancing Your Roblox Experience
-## A Presentation on the Features and Benefits of Raccoon Hub
+## A Presentation on the Features and Benefits of Raccoon Hub [ OPEN SOURCE! ]
 
 # 2: Raccoon Hub: Unleash the Power
 
