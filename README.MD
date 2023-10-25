@@ -24,3 +24,7 @@
 # Stay Ahead with Raccoon Hub
 
 ### In conclusion, Raccoon Hub is the ultimate companion for Roblox enthusiasts. With its anti-lag capabilities, high-quality RTX shaders, and FPS unlocking feature, it elevates your gameplay to new heights. Embrace the power of Raccoon Hub and unlock a whole new level of enjoyment in the world of Roblox.
+
+# You are simply 4 clicks away from getting your best experiences in Roblox!
+### Click here to select the version you wanted to download!
+### (Releases Page)[https://github.com/RyAtlasX/Raccoon-Hub/releases/]
